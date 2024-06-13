@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <InvariantGlobalization>true</InvariantGlobalization>
+    <RootNamespace>app</RootNamespace>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <PublishAot>true</PublishAot>
+    <OutputType>Exe</OutputType>
+    <Nullable>enable</Nullable>
+
+    <EnableUnsafeBinaryFormatterSerialization>false</EnableUnsafeBinaryFormatterSerialization>
+    <TrimmerUnreferencedCodeAnalyzerEnabled>true</TrimmerUnreferencedCodeAnalyzerEnabled>
+    <HttpActivityPropagationSupport>false</HttpActivityPropagationSupport>
+    <EnableUnsafeUTF7Encoding>false</EnableUnsafeUTF7Encoding>
+    <ProduceReferenceAssembly>false</ProduceReferenceAssembly>
+    <MetadataUpdaterSupport>false</MetadataUpdaterSupport>
+    <InvariantGlobalization>true</InvariantGlobalization>
+    <UseSystemResourceKeys>true</UseSystemResourceKeys>
+    <UseNativeHttpHandler>true</UseNativeHttpHandler>
+    <TrimmerRemoveSymbols>true</TrimmerRemoveSymbols>
+    <EventSourceSupport>false</EventSourceSupport>
+    <EnableTrimAnalyzer>true</EnableTrimAnalyzer>
+    <StackTraceSupport>false</StackTraceSupport>
+    <TrimmerSingleWarn>false</TrimmerSingleWarn>
+    <DebuggerSupport>false</DebuggerSupport>
+    <DebugSymbols>false</DebugSymbols>
+    <DebugType>none</DebugType>
+    <TrimMode>link</TrimMode>
+    <Optimize>true</Optimize>
+
+  </PropertyGroup>
+
+</Project>

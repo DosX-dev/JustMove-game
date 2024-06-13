@@ -3,7 +3,7 @@ A simple 2D console game for Windows where you need to jump over obstacles. Writ
 
 ### [Download compiled as .EXE](https://github.com/DosX-dev/JustMove-game/releases/tag/Builds)
 
-![](justmove.png)
+![](JustMove.png)
 
 ## Gameplay
 Use `space` to jump.
